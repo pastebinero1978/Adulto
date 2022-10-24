@@ -196,3 +196,246 @@ http://ad.worldtvip.co:8020/xx_x_bunga_bunga/index.m3u8?token=test
 http://ad.worldtvip.co:8020/xx_x_desire/index.m3u8?token=test
 #EXTINF:-1,Zest TV
 http://ad.worldtvip.co:8020/xx_zest_tv/index.m3u8?token=test
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" tvg-name="BeIN SPORTS HABER HD+" group-title="TR: beIN Sports",BeIN SPORTS HABER HD+
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5322.ts
+#EXTINF:-1 tvg-id="beINSportsHaber.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_HABER.png" tvg-name="beIN Sports Haber HD" group-title="TR: beIN Sports",beIN Sports Haber HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5321.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_1_HD.png" tvg-name="beIN SPORTS 1 HEVC 50 FPS" group-title="TR: beIN Sports",beIN SPORTS 1 HEVC 50 FPS
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/12455.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="http://iptvlogo.com/newpicon/turkey/bein_SPORTS_1HD.png" tvg-name="BEIN SPORT 1 HD+" group-title="TR: beIN Sports",BEIN SPORT 1 HD+
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5361.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="http://iptvtelekom.com/newpicon/bein_SPORTS_1.png" tvg-name="beIN SPORTS 1 HD+" group-title="TR: beIN Sports",beIN SPORTS 1 HD+
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5323.ts
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_2_HD.png" tvg-name="BEIN SPORTS 2 HD+" group-title="TR: beIN Sports",BEIN SPORTS 2 HD+
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5328.ts
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_3_HD.png" tvg-name="BEIN SPORTS 3 HD+" group-title="TR: beIN Sports",BEIN SPORTS 3 HD+
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5329.ts
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_4_HD.png" tvg-name="BEIN SPORTS 4 HD+" group-title="TR: beIN Sports",BEIN SPORTS 4 HD+
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5330.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_1_HD.png" tvg-name="beIN SPORTS 1 HD" group-title="TR: beIN Sports",beIN SPORTS 1 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5347.ts
+#EXTINF:-1 tvg-id="beINSports2Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_2_HD.png" tvg-name="BEIN SPORTS 2 HD" group-title="TR: beIN Sports",BEIN SPORTS 2 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5345.ts
+#EXTINF:-1 tvg-id="beINSports3Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_3_HD.png" tvg-name="beIN SPORTS 3 HD" group-title="TR: beIN Sports",beIN SPORTS 3 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5344.ts
+#EXTINF:-1 tvg-id="beINSports4Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_4_HD.png" tvg-name="beIN Sports 4 HD" group-title="TR: beIN Sports",beIN Sports 4 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5342.ts
+#EXTINF:-1 tvg-id="beINSportsMax1Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_MAX_1.png" tvg-name="beIN Sports Max 1 HD" group-title="TR: beIN Sports",beIN Sports Max 1 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5351.ts
+#EXTINF:-1 tvg-id="beINSportsMax2Turkey.tr" tvg-logo="https://iptvlogo.com/newpicon/turkey/bein_SPORTS_MAX_2.png" tvg-name="beIN Sports Max 2 HD" group-title="TR: beIN Sports",beIN Sports Max 2 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/5352.ts
+#EXTINF:-1 tvg-id="beINSports1Turkey.tr" tvg-logo="http://foreverfuntv.com/newpicon/BURAK/bein-logo/beinhd1.png" tvg-name="beIN Sports 1 (DigiPlay Avrupa)" group-title="TR: beIN Sports",beIN Sports 1 (DigiPlay Avrupa)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87194.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://foreverfuntv.com/newpicon/TR/bein.png" tvg-name="beIN Connect 1 HD" group-title="TR: beIN Sports",beIN Connect 1 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87195.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://foreverfuntv.com/newpicon/TR/bein.png" tvg-name="beIN Connect 2 HD" group-title="TR: beIN Sports",beIN Connect 2 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87196.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://foreverfuntv.com/newpicon/TR/bein.png" tvg-name="beIN Connect 3 HD" group-title="TR: beIN Sports",beIN Connect 3 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87197.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://foreverfuntv.com/newpicon/TR/bein.png" tvg-name="beIN Connect 4 HD" group-title="TR: beIN Sports",beIN Connect 4 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87198.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://foreverfuntv.com/newpicon/TR/bein.png" tvg-name="beIN Connect 5 HD" group-title="TR: beIN Sports",beIN Connect 5 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87199.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://foreverfuntv.com/newpicon/TR/bein.png" tvg-name="beIN Connect 6 HD" group-title="TR: beIN Sports",beIN Connect 6 HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/87200.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- WORLD FISHING NETWORK" group-title="US: Sport + NFL NBA MBL UFC",USA- WORLD FISHING NETWORK
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2674.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- TSN Sport 5 HD." group-title="US: Sport + NFL NBA MBL UFC",USA- TSN Sport 5 HD.
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2675.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- TSN Sport 4 HD." group-title="US: Sport + NFL NBA MBL UFC",USA- TSN Sport 4 HD.
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2676.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- TSN Sport 3 HD." group-title="US: Sport + NFL NBA MBL UFC",USA- TSN Sport 3 HD.
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2677.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- TSN Sport 2 HD." group-title="US: Sport + NFL NBA MBL UFC",USA- TSN Sport 2 HD.
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2678.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- TSN Sport 1 HD." group-title="US: Sport + NFL NBA MBL UFC",USA- TSN Sport 1 HD.
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2679.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- WWE" group-title="US: Sport + NFL NBA MBL UFC",USA- WWE
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2680.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NHL NETWORK" group-title="US: Sport + NFL NBA MBL UFC",USA- NHL NETWORK
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2681.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NFL NETWORK" group-title="US: Sport + NFL NBA MBL UFC",USA- NFL NETWORK
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2683.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC UNIVERSO" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC UNIVERSO
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2684.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC Sports Philadelphia HD" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC Sports Philadelphia HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2685.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC Sports Northwest HD" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC Sports Northwest HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2686.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC SPORTS NETWORK" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC SPORTS NETWORK
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2687.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC Sports Chicago HD" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC Sports Chicago HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2688.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC Sports California HD" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC Sports California HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2689.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC Sports Boston HD" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC Sports Boston HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2690.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC Sports Bay Area HD" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC Sports Bay Area HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2691.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC 5" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC 5
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2693.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC 4 NY FHD" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC 4 NY FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2694.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC 4 NY" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC 4 NY
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2695.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBC 10 EAST" group-title="US: Sport + NFL NBA MBL UFC",USA- NBC 10 EAST
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2696.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- NBA TV HD" group-title="US: Sport + NFL NBA MBL UFC",USA- NBA TV HD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2697.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- MLB NETWORK" group-title="US: Sport + NFL NBA MBL UFC",USA- MLB NETWORK
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2698.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="USA- LONGHORN NETWORK" group-title="US: Sport + NFL NBA MBL UFC",USA- LONGHORN NETWORK
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2699.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 1 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 1 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2700.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 2 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 2 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2701.ts
+#EXTINF:-1 tvg-id="" tvg-logo="data:image/jpeg;base64,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" tvg-name="ZA: SUPERSPORT 3 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 3 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2702.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 4 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 4 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2703.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 5 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 5 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2704.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 6 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 6 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2705.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 7 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 7 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2706.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 8 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 8 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2707.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 9 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 9 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2708.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 10 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 10 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2709.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="ZA: SUPERSPORT 11 FHD" group-title="US: Sport + NFL NBA MBL UFC",ZA: SUPERSPORT 11 FHD
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2710.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 01 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 01 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2711.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 02 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 02 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2712.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 03 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 03 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2713.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 04 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 04 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2714.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 05 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 05 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2715.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 06  HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 06  HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2716.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 07  HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 07  HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2717.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 08 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 08 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2718.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 09 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 09 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2719.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 10 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 10 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2720.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 11 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 11 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2721.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 12 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 12 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2722.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 13 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 13 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2723.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NBA League Pass 14 HD US" group-title="US: Sport + NFL NBA MBL UFC",NBA League Pass 14 HD US
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2724.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass channel guide (CEST)" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass channel guide (CEST)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2725.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 1" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 1
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2726.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 2" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 2
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2727.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 3" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 3
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2728.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 4" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 4
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2729.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 5" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 5
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2730.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 6" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 6
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2731.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 7" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 7
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2732.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 8" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 8
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2733.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 9" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 9
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2734.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 15" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 15
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2735.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 14" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 14
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2736.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 13" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 13
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2737.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 12" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 12
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2738.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 11" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 11
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2739.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NHL Gamepass 10" group-title="US: Sport + NFL NBA MBL UFC",NHL Gamepass 10
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2740.ts
+#EXTINF:-1 tvg-id="88039" tvg-logo="" tvg-name="Sportschannel" group-title="US: Sport + NFL NBA MBL UFC",Sportschannel
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2742.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass channel guide (CEST)" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass channel guide (CEST)
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2758.ts
+#EXTINF:-1 tvg-id="88039" tvg-logo="" tvg-name="MLB Gamepass 1" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 1
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2759.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 2" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 2
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2760.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 3" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 3
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2761.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 4" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 4
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2762.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 5" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 5
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2763.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 6" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 6
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2764.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 7" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 7
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2765.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 8" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 8
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2766.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 9" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 9
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2767.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 10" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 10
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2768.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 11" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 11
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2769.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 12" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 12
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2770.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 13" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 13
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2771.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 14" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 14
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2772.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="MLB Gamepass 15" group-title="US: Sport + NFL NBA MBL UFC",MLB Gamepass 15
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/2773.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="UFC" group-title="US: Sport + NFL NBA MBL UFC",UFC
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/44971.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 1" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 1
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85407.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 2" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 2
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85408.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 3" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 3
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85409.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 4" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 4
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85410.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 5" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 5
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85411.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 6" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 6
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85412.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 7" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 7
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85413.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 8" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 8
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85414.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 9" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 9
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85415.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 10" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 10
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85416.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 11" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 11
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85417.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 12" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 12
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85418.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 13" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 13
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85419.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 14" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 14
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85420.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 15" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 15
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85421.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 16" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 16
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85422.ts
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="NFL Gamepass 17" group-title="US: Sport + NFL NBA MBL UFC",NFL Gamepass 17
+http://destiny4k.com:2086/live/darkside/t2z7marsRY/85423.ts
+
